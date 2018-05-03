@@ -3,6 +3,8 @@
 
 主要功能裁剪、旋转、翻转
 
+不理解的请提issue 或者 Email：m18753377169@gmail.com
+
 原图
 
 ![art](https://github.com/treasurect/CropView/blob/master/art/pic_crop_normal.png)
